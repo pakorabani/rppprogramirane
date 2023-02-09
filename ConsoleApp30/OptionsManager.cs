@@ -25,7 +25,22 @@ namespace ConsoleApp30
 
         public static void PrintArr(int[] arr)
         {
-            Console.WriteLine(string.Join(",",arr));
+            Console.WriteLine(string.Join(", ",arr));
+        }
+
+        public static void EvenNums(int[] arr)
+        {
+            int even = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    even += arr[i];
+                }
+            }
+      
+
+            Console.WriteLine(even);
         }
     }
 }

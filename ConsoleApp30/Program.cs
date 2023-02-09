@@ -17,6 +17,7 @@ namespace ConsoleApp30
             Console.WriteLine(OptionsManager.MaxNum(arr));
             arr = OptionsManager.ReverseArr(arr);
             OptionsManager.PrintArr(arr);
+            OptionsManager.EvenNums(arr);
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ConsoleApp30.exe
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ConsoleApp30.deps.json
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ConsoleApp30.runtimeconfig.json
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ConsoleApp30.runtimeconfig.dev.json
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ConsoleApp30.dll
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ref\ConsoleApp30.dll
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\bin\Debug\net5.0\ConsoleApp30.pdb
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.AssemblyInfo.cs
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.dll
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ref\ConsoleApp30.dll
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.pdb
+C:\Users\Student\Documents\11Б\20\rppprogramirane\ConsoleApp30\obj\Debug\net5.0\ConsoleApp30.genruntimeconfig.cache
