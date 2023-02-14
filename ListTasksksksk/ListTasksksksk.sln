@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTasksksksk", "ListTasksksksk\ListTasksksksk.csproj", "{82906CBE-F67A-4AFE-BFE9-D161FD10C831}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Last", "ListTasksksksk\Remove Last.csproj", "{82906CBE-F67A-4AFE-BFE9-D161FD10C831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Negative", "Remove Negative\Remove Negative.csproj", "{49648109-7110-425A-ACF1-9C3289A9BE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists merge", "Lists merge\Lists merge.csproj", "{83349426-8D6D-4C0C-9ED9-E4AA94A21841}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{82906CBE-F67A-4AFE-BFE9-D161FD10C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82906CBE-F67A-4AFE-BFE9-D161FD10C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82906CBE-F67A-4AFE-BFE9-D161FD10C831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49648109-7110-425A-ACF1-9C3289A9BE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49648109-7110-425A-ACF1-9C3289A9BE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49648109-7110-425A-ACF1-9C3289A9BE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49648109-7110-425A-ACF1-9C3289A9BE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83349426-8D6D-4C0C-9ED9-E4AA94A21841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83349426-8D6D-4C0C-9ED9-E4AA94A21841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83349426-8D6D-4C0C-9ED9-E4AA94A21841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83349426-8D6D-4C0C-9ED9-E4AA94A21841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

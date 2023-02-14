@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Documents\\11Б\\20\\rppprogramirane\\ListTasksksksk\\ListTasksksksk\\Remove Last.csproj",
-      "projectName": "Remove Last",
-      "projectPath": "C:\\Users\\Student\\Documents\\11Б\\20\\rppprogramirane\\ListTasksksksk\\ListTasksksksk\\Remove Last.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\11Б\\20\\rppprogramirane\\ListTasksksksk\\Remove Negative\\Remove Negative.csproj",
+      "projectName": "Remove Negative",
+      "projectPath": "C:\\Users\\Student\\Documents\\11Б\\20\\rppprogramirane\\ListTasksksksk\\Remove Negative\\Remove Negative.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Documents\\11Б\\20\\rppprogramirane\\ListTasksksksk\\ListTasksksksk\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\11Б\\20\\rppprogramirane\\ListTasksksksk\\Remove Negative\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
